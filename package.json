@@ -1,0 +1,19 @@
+{
+  "name": "library",
+  "author": "Syneva Runyan",
+  "license": "",
+  "version": "0.0.1",
+  "description": "Base Components Grabbed from the Account Openning and Onboarding Lab Teams",
+  "main": "distribution/index.js",
+  "directories": {},
+  "scripts": {
+    "test": "",
+    "build": "",
+    "prepublish": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {}
+}

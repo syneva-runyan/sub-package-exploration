@@ -1,0 +1,19 @@
+{
+  "name": "styleguide",
+  "author": "Syneva Runyan",
+  "license": "",
+  "version": "0.0.0",
+  "description": "Sub Package of the Library that will contain styleguide and assets",
+  "main": "",
+  "directories": {},
+  "scripts": {
+    "test": "",
+    "build": "",
+    "prepublish": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {}
+}
